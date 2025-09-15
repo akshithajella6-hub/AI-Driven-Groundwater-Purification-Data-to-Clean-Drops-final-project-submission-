@@ -8,6 +8,6 @@ Features:
 - Built entirely with Python 3.12.
 
 To Run the API:
- -Open a terminal / PowerShell inside the project folder.
+ Open a terminal / PowerShell inside the project folder.
    Start the Flask server:  python app.py
     The server will run locally at: http://127.0.0.1:5000
