@@ -2,6 +2,6 @@ This project predicts the purity level of groundwater (Safe / Unsafe) using a ma
 in JSON format and returns the predicted water status.
 Features:
 - Pre-trained machine-learning model (Random Forest & Logistic Regression).
-- REST API endpoint **`/predict`** that accepts water-quality parameters and
+- REST API endpoint predict that accepts water-quality parameters and
   responds with `Safe` or `Unsafe`.
 - Built entirely with Python 3.12.
