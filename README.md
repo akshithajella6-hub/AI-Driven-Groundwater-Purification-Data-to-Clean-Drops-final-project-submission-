@@ -6,6 +6,7 @@ Features:
 - REST API endpoint predict that accepts water-quality parameters and
   responds with `Safe` or `Unsafe`.
 - Built entirely with Python 3.12.
+
 To Run the API:
  -Open a terminal / PowerShell inside the project folder.
    Start the Flask server:  python app.py
